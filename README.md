@@ -1,26 +1,25 @@
-Data Cleaning  and Preprocessing – Titanic Dataset
+**Data Cleaning  and Preprocessing – Titanic Dataset**
+**Link of google colab:**(https://colab.research.google.com/drive/183EL1eA4f3pQWH9mR4VR-cW9K4qr00dc?usp=sharing)
 
-Link of google colab:https://colab.research.google.com/drive/183EL1eA4f3pQWH9mR4VR-cW9K4qr00dc?usp=sharing
-
-✅ Objective
+**✅ Objective**
 To learn and apply essential data cleaning and preprocessing techniques on a real-world dataset using Python tools. 
 
-📊 Dataset Used
+**📊 Dataset Used**
 Name: Titanic Dataset
 Source: Kaggle Titanic - Machine Learning from Disaster
 Description:
 This dataset contains passenger information from the Titanic ship, which sank in 1912. It is widely used for machine learning and data analysis practice.
 
-🛠️ Tools Used
+##🛠️ Tools Used
 Tool / Library	
 -Python	        Programming language used for data analysis and preprocessing tasks
 -Pandas	        To load, explore, manipulate, and clean tabular data
--NumPy	          For numerical operations and handling arrays/missing values
--Matplotlib	    To create visualizations like boxplots for outlier detection
+-NumPy	        For numerical operations and handling arrays/missing values
+-Matplotlib	        To create visualizations like boxplots for outlier detection
 -Seaborn	        For advanced and attractive data visualizations
 -Scikit-learn	  To perform imputation, encoding, and standardization (preprocessing)
 
-🔄 Steps Performed in Data Cleaning & Preprocessing
+**🔄 Steps Performed in Data Cleaning & Preprocessing**
 1.Importing Libraries
       -Loaded essential libraries: pandas, numpy, matplotlib, seaborn, and sklearn.
 2.Loading the Dataset
