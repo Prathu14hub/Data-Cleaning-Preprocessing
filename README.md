@@ -4,34 +4,12 @@ Link of google colab:https://colab.research.google.com/drive/183EL1eA4f3pQWH9mR4
 
 ✅ Objective
 To learn and apply essential data cleaning and preprocessing techniques on a real-world dataset using Python tools. 
-This includes:
-Importing and exploring raw data
-Handling missing values through imputation
-Encoding categorical variables into numerical form
-Normalizing or standardizing numerical features
-Detecting and removing outliers using boxplots
-The final goal is to prepare a clean, structured, and machine learning-ready dataset.
 
 📊 Dataset Used
 Name: Titanic Dataset
 Source: Kaggle Titanic - Machine Learning from Disaster
 Description:
 This dataset contains passenger information from the Titanic ship, which sank in 1912. It is widely used for machine learning and data analysis practice.
-
-🧾 Key Features in the Dataset:
-Column	Description
-PassengerId	-Unique ID for each passenger
-Survived	  -Target variable (0 = No, 1 = Yes)
-Pclass	    -Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
-Name	      -Passenger's name
-Sex	        -Gender
-Age	        -Age in years
-SibSp	      -No. of siblings/spouses aboard
-Parch	      -No. of parents/children aboard
-Ticket	    -Ticket number
-Fare	      -Ticket fare
-Cabin	      -Cabin number (many missing values)
-Embarked	  -Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 🛠️ Tools Used
 Tool / Library	
